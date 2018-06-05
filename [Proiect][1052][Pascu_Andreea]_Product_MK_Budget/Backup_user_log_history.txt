@@ -1,0 +1,3 @@
+2
+ionel_ionescu,elefant,ionel@gmail.com,16.1.2018,16:23,16:40,5|1-7-1-8-6
+marcel_iuli,12345678,andreea@gmail.com,15.1.2018,18:10,18:12,5|2-7-3-10-6
